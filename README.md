@@ -1,6 +1,6 @@
 # 🎞️ Prompt2Animate
 
-Turn plain text prompts into animated videos — automatically.
+Turn plain text prompts into animated videos  automatically.
 
 ---
 
@@ -13,7 +13,7 @@ Turn plain text prompts into animated videos — automatically.
    The prompt is sent to a language model (via OpenAI API) which generates a full Manim (Python) animation script.
 
 3. 🖥️ **Code Execution**  
-   The generated Manim code is run in the backend — no coding required from the user.
+   The generated Manim code is run in the backend no coding required from the user.
 
 4. 🎬 **Video Output**  
    Manim renders the animation as a high-quality video.
@@ -22,7 +22,7 @@ Turn plain text prompts into animated videos — automatically.
    The final animation is rendered and shown in the UI.
 
 6. ✂️ **(Optional) Edit Tool**  
-   Users can optionally view and tweak the generated code before rendering again — full control if you want it.
+   Users can optionally view and tweak the generated code before rendering again  full control if you want it.
 
 ---
 
